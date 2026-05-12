@@ -11,3 +11,15 @@ My first Github project
 
 ## 作者
 Bryan
+# Project Title
+
+簡短描述這個專案的用途，例如：
+這是一個用來練習 Git、GitHub 與版本控制的示範專案。
+
+## Features
+- 清楚的專案結構
+- 使用 Git 進行版本管理
+- 支援多人協作
+
+## Installation
+1. Clone 專案：
